@@ -99,16 +99,16 @@ const langObj = {
 		"en": "Language",
 	},
 	"language1": {
-		"ua": "Український",
-		"en": "Ukrainian",
+		"ua": "Український - рідний",
+		"en": "Ukrainian - native",
 	},
 	"language2": {
-		"ua": "Російська",
-		"en": "Russian",
+		"ua": "Російська - вільно",
+		"en": "Russian - free",
 	},
 	"language3": {
-		"ua": "Англійська",
-		"en": "English",
+		"ua": "Англійська - базовий",
+		"en": "English - base ",
 	},
 	"team-work": {
 		"ua": "команда робота",
