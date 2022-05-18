@@ -334,6 +334,8 @@ body.dark .contacts__link:hover {
 }
 
 .projects__link {
+	font-size: 15px;
+	font-weight: 500;
 	padding-left: 11px;
 	transition: color 0.3s ease;
 }
