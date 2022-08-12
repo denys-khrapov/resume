@@ -138,10 +138,6 @@ const langObj = {
 		ua: "команда робота",
 		en: "team work",
 	},
-	"base1": {
-		ua: "Базовий рівень",
-		en: "Basic level",
-	},
 	"base2": {
 		ua: "Базовий рівень",
 		en: "Basic level",
