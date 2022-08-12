@@ -162,6 +162,14 @@ const langObj = {
 		ua: "Udemy Просунутий JavaScript",
 		en: "Udemy Advanced JavaScript",
 	},
+	"js": {
+		ua: "навчання JavaScript",
+		en: "training JavaScript",
+	},
+	"react": {
+		ua: "навчання React",
+		en: "training React",
+	},
 };
 
 //Экпорт по умолчанию
